@@ -6,3 +6,5 @@ This repository is a blank repository where students can try different practices
 ## Fix bugs making the grades visible to all students
 
 ## update 1, commit 1
+
+## update 2, commit 2
